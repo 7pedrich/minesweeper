@@ -6,4 +6,4 @@ Touch with your character to Reveal cell
 RMB to Toggle flag on/off
 
 This is how it should look like when fully implemented:
-(https://github.com/user-attachments/assets/de37f6c4-7814-42a5-a567-9c04d3eebecc)
+![Demo (gif)](https://github.com/user-attachments/assets/6b309761-6411-4be8-a046-53e395c3d6f9)
