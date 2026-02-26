@@ -2,7 +2,7 @@ Minesweeper game I made for fun
 
 Controls:
 - Touch with your character to Reveal cell 
-- RMB to Toggle flag on/off
+- LMB to Toggle flag on/off
 
 This is how it should look like when fully implemented:
 
